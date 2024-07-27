@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hola 👋, mi nombre es Alain
+![](https://pin.it/1xe5EThc5)
 
-<!--
-**Alainjc/Alainjc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un prospecto a QA engineer, en los últimos meses he iniciado mi transición al campo de IT, estoy ansioso de poder aplicar todos mis conocimientos y, por supuesto, seguir aprendiendo. Concluí el curso intensivo de Tripleten en el cuál desarrollé habilidades fundamentales como el desarrollo y ejecución de casos de prueba, fundamentos de las bases de datos, fundamentos de la automatización usando Python con Selenium, pruebas de API con postman y gestión de bugs usando Jira.
 
-Here are some ideas to get you started:
+Explora mis proyectos y no dudes en contactarme para más información.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Habilidades: Manual testing / Python / SQL / API testing / Jira
+
+
+
+
+
+
